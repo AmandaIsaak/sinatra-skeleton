@@ -1,0 +1,57 @@
+.form-control{
+  background-color: #FFFAF0;
+}
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFFAF0;
+}
+#first_button{
+  right:89px;
+}
+#second_button{
+  right:76px;
+}
+.form-container{
+  border-radius:4px;
+  border: solid gray 1px;
+  padding-left:20px;
+  padding-right:20px;
+  background-color: white;
+  box-shadow: 10px 10px 5px #AAAAAA;
+
+}
+.remember label{
+  float: right;
+  margin-top: -7px;
+}
+.remember input{
+  float: right;
+  width: 11px;
+  margin: 0 5px;
+}
+form label{
+  display: inline-block;
+}
+input{
+  width: 100%;
+  font-size: 1em;
+  display: block;
+  float: left;
+}
+.submit-btn input {
+  width:40%;
+  float: right;
+  margin: 10px;
+}
+
+img {
+  width: 100%;
+  max-width: 30%;
+}
+
+#profile{
+  text-align: center;
+  margin-top: 50px;
+}
